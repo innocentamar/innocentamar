@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @innocentamar
 - 👀 I’m interested in developing web-pages
-- 🌱 I’m currently learning .Net Framework | MVC | .Net Core
+- 🌱 I’m currently learning .Net Framework | MVC
 - 📫 How to reach me amarsharma18@gmail.com
 
 <!---
