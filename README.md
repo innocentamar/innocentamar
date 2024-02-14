@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @innocentamar
-- 👀 I’m interested in developing web-pages
-- 🌱 I’m currently learning .Net Framework | MVC
-- 📫 How to reach me amarsharma18@gmail.com
+- 👋 Hi, I’m Amar Sharma
+- 👀 I’m interested in developing web pages and currently learning DSA
+- 🌱 I'm into .Net Framework | MVC for web development
+- 📫 How to reach me amarnsharma18@gmail.com
 
 <!---
 innocentamar/innocentamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
